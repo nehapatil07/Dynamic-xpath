@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2021-06-13T06:17:58Z" finished-at="2021-06-13T06:17:58Z">
+    <groups>
+      <group name="regression">
+        <method signature="JbkExamples.ApplicationTitle()[pri:2, instance:DynamicXpathJbkExample.JbkExamples@215be6bb]" name="ApplicationTitle" class="DynamicXpathJbkExample.JbkExamples"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2021-06-13T06:17:58Z" finished-at="2021-06-13T06:17:58Z">
+      <class name="DynamicXpathJbkExample.JbkExamples">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:DynamicXpathJbkExample.JbkExamples@215be6bb]" name="BrowserSetUp" is-config="true" duration-ms="12445" started-at="2021-06-13T11:47:45Z" finished-at="2021-06-13T11:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="ApplicationTitle()[pri:2, instance:DynamicXpathJbkExample.JbkExamples@215be6bb]" name="ApplicationTitle" duration-ms="15" started-at="2021-06-13T11:47:58Z" description="to verify application title" finished-at="2021-06-13T11:47:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationTitle -->
+      </class> <!-- DynamicXpathJbkExample.JbkExamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
